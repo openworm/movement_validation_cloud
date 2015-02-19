@@ -2,7 +2,7 @@
 
 The Movement Validation cloud application, for the [movement_validation Python package](https://github.com/openworm/movement_validation).
 
-For installation instructions, please see [INSTALL.md](https://github.com/joebowen/movement_validation_cloud/blob/master/INSTALL.md).
+For installation instructions, please see [INSTALL.md](https://github.com/openworm/movement_validation_cloud/blob/master/INSTALL.md).
 
 **@JoeBowen's Notes**
 
