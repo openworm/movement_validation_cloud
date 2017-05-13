@@ -1,3 +1,5 @@
+**NOTE: This attempt at a cloud movement validation site is no longer being maintained.  The new work as of May 2017 is at: https://github.com/openworm/movement_cloud.**
+
 #movement_validation_cloud#
 
 The Movement Validation cloud application, for the [movement_validation Python package](https://github.com/openworm/movement_validation).
